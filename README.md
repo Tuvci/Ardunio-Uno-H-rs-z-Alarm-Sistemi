@@ -38,7 +38,7 @@ Sistem kurulduktan ve kod yüklendikten sonra:
 - Buton ile alarm sistemi aktif edilir.Alarmın aktif olduğu ledlere bakılarak anlaşılır.(kırmızı=alarm aktif değil, yeşil= alarm aktif)
 - Hareket sensörü herhangi bir hareket algıladığında buzzer çalacaktır.
 - Alarm, hareket algıladığı anda çalmaya devam edecektir.
-- Alarmı devre dışı bırakmak için yeniden kullanmanız gerekmektedir.
+- Alarmı devre dışı bırakmak için yeniden buton kullanmanız gerekmektedir.
 
 ## Katkıda Bulunanlar
 
