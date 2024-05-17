@@ -35,7 +35,7 @@ Bu projeyi kurmak ve çalıştırmak için aşağıdaki bileşenlere ihtiyacın�
 
 ## Kullanım
 Sistem kurulduktan ve kod yüklendikten sonra:
--Buton ile alarm sistemi aktif edilir.Alarmın aktif olduğu ledlere bakılarak anlaşılır.(kırmızı=alarm aktif değil, yeşil= alarm aktif)
+- Buton ile alarm sistemi aktif edilir.Alarmın aktif olduğu ledlere bakılarak anlaşılır.(kırmızı=alarm aktif değil, yeşil= alarm aktif)
 - Hareket sensörü herhangi bir hareket algıladığında buzzer çalacaktır.
 - Alarm, hareket algıladığı anda çalmaya devam edecektir.
 - Alarmı devre dışı bırakmak için yeniden kullanmanız gerekmektedir.
