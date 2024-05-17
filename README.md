@@ -44,8 +44,8 @@ Sistem kurulduktan ve kod yüklendikten sonra:
 
 Bu projede katkıda bulunan ekip üyeleri:
 
-- **Üye 1**: [FATMA ÖZBEK](https://github.com/FATMAOZBEK)
-- **Üye 2**: [Razen Şeyhyusuf](https://github.com/Razen20sh)
-- **Üye 3**: [Enes Efe Avşaroğlu](https://github.com/kullanici3)
+- **Üye 1**: [Fatma ÖZBEK](https://github.com/FATMAOZBEK)
+- **Üye 2**: [Razen ŞEYHYUSUF](https://github.com/Razen20sh)
+- **Üye 3**: [Enes Efe AVŞAROĞLU](https://github.com/kullanici3)
 
 
