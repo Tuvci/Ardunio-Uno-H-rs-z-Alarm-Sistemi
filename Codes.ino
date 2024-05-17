@@ -6,7 +6,8 @@ const int dugme1=11;
 const int dugme2=12;
 bool alarm=false;
 
-void setup() {
+void setup()
+{
  
 pinMode(yesil,OUTPUT);
 pinMode(kirmizi,OUTPUT);   
