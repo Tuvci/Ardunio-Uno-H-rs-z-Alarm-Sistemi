@@ -27,7 +27,7 @@ Bu projeyi kurmak ve çalıştırmak için aşağıdaki bileşenlere ihtiyacın�
    - Arduino IDE'yi bilgisayarınıza indirip kurun: [Arduino IDE İndirme Sayfası](https://www.arduino.cc/en/software)
    - Bu repo'yu klonlayın veya zip dosyasını indirip çıkarın:
      ```sh
-     git clone https://github.com/Tuvci/ArdunioUno-Burglar-Alarm-System.git
+     git clone https://github.com/Tuvci/ArdunioUno-HirsizAlarmSistemi.git
      ```
    - `codes.ino` dosyasını Arduino IDE ile açın.
    - Arduino'nuzu bilgisayara bağlayın ve doğru kart ve port ayarlarını yapın.
