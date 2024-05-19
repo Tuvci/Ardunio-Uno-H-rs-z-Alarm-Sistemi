@@ -44,7 +44,7 @@ Sistem kurulduktan ve kod yüklendikten sonra:
 
 Bu projede katkıda bulunan ekip üyeleri:
 
-- **Üye 1**: [Tuğçe Karakuş](https://github.com/Tuvci) 
+- **Üye 1**: [Tuğçe Karakuş](https://github.com/tugcekarakuss) 
 - **Üye 2**: [Fatma ÖZBEK](https://github.com/FATMAOZBEK) 
 - **Üye 3**: [Enes Efe AVŞAROĞLU](https://github.com/MaSCaR50)
 - **Üye 4**:[Razen ŞEYHYUSUF](https://github.com/Razen20sh)
