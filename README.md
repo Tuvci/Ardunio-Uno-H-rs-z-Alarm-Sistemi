@@ -19,7 +19,7 @@ Bu projeyi kurmak ve çalıştırmak için aşağıdaki bileşenlere ihtiyacın�
 
 ## Kurulum
 1. **Donanım Kurulumu:**
-   - PIR hareket sensörünü breadboard'a yerleştirin ve VCC, GND ve sinyal pinleriniayın.
+   - PIR hareket sensörünü breadboard'a yerleştirin ve VCC, GND ve sinyal pinlerini bağlayın.
    - LED'i ve direnci breadboard'a yerleştirip, uygun pinlere bağlayın.
    - Buzzer veya sireni breadboard'a yerleştirip, uygun pinlere bağlayın.
 
